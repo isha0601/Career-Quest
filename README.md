@@ -2,16 +2,16 @@
 
 Career Quest is an interactive career guidance website that helps users explore potential career paths based on their answers to a series of questions. The decision tree algorithm will provide personalized career recommendations, including study-related and non-study-related options. 
 
-Tech Stack<br>
+<b>Tech Stack</b><br>
 Backend: Node.js, Express.js<br>
 Frontend: HTML, CSS, JavaScript, EJS (Embedded JavaScript templates)<br>
-Sessions: Express-session for user session management
+Sessions: Express-session for user session management<br>
 
 
-Future Scope
-Add more complex decision trees to personalize career recommendations.
-Include user feedback, suggestions for improving recommendations, and gamification elements.
-Implement database support to save user progress permanently.
+<b>Future Scope</b><br>
+Add more complex decision trees to personalize career recommendations.<br>
+Include user feedback, suggestions for improving recommendations, and gamification elements.<br>
+Implement database support to save user progress permanently.<br>
 
 
 
